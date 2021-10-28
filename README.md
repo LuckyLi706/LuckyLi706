@@ -1,8 +1,13 @@
+<!--
 ### Hi I am LuckyLi706 👋
+-->
+<h4 align="center">访客数 :eyes:</h4>
 
-![LuckyLi706's github stats](https://github-readme-stats.vercel.app/api?username=LuckyLi706&theme=vue) 
+<p align="center"><img src="https://profile-counter.glitch.me/LuckyLi706/count.svg" alt="Leon406 :: Visitor's Count" /></p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuckyLi706&layout=compact)
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=LuckyLi706&theme=vue"/> </p>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuckyLi706&layout=compact"/> </p>
 <!--
 **LuckyLi706/LuckyLi706** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
