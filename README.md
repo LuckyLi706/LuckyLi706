@@ -5,10 +5,10 @@
 
 <p align="center"><img src="https://profile-counter.glitch.me/LuckyLi706/count.svg" alt="Leon406 :: Visitor's Count" /></p>
 
-<a href="https://github.com/LuckyLi706">
+<div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=LuckyLi706&line_height=28&theme=vue" align="center"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuckyLi706&langs_count=15&line_height=345&layout=compact" align="center"/>
-</a>  
+</div>  
 <!--
 **LuckyLi706/LuckyLi706** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
